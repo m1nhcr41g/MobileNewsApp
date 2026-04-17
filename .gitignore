@@ -39,3 +39,16 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+ 
+# SQLite database
+football_news.db
+*.db
+
+# VSCode settings
+.vscode/
+
+# Log files
+*.log
+
+# Jest coverage
+coverage/
